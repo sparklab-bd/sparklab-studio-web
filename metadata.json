@@ -1,0 +1,6 @@
+{
+  "name": "Spark Studio",
+  "description": "Ultra-simple, 100% client-side utility suite for QR codes, PDF invoices, CSV tables, strong passwords, and unit conversions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
